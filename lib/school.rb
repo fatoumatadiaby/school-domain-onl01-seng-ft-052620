@@ -17,6 +17,6 @@ class School
  
   def sort 
   new hash = {}
-  
+  roster.
  end
 end 

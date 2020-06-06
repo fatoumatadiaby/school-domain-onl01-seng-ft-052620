@@ -1,5 +1,5 @@
 class School
-attr reader : roster
+attr_reader : roster
 
 
 end 

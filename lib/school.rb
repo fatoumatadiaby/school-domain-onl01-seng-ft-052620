@@ -6,7 +6,8 @@ class School
  end
  
  def add_student(name, grade)
- unless@roster 
+  unless @roster[grade]
+  
  end 
 
 end 

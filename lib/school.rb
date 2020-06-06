@@ -1,9 +1,10 @@
 class School
-attr_reader : roster
+ attr_reader : roster
 
-def initialize(name)
+ def initialize(name)
   @roster = {}
-end
-
+ end
+ 
+ def
 
 end 
